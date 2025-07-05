@@ -1,5 +1,10 @@
 # 🎉 Discord Nitro Claimer Tool 🎮
 
+[![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/release/python-3120/)
+[![Windows 10/11](https://img.shields.io/badge/OS-Windows%2010%2F11-blue)](https://www.microsoft.com/en-us/windows)
+[![GitHub Issues](https://img.shields.io/github/issues/ysnyuki2321/Redeemer)](https://github.com/ysnyuki2321/Redeemer/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/ysnyuki2321/Redeemer?style=social)](https://github.com/ysnyuki2321/Redeemer)
+
 ### 概要 📝
 このツールは、Discord Nitroプロモーションを特定のDiscordトークンアカウントに自動でクレームする便利なツールです！✨ 仮想クレジットカード（VCC）を使用して、簡単かつ迅速にNitroをゲットできます。Windows環境でのみ動作します。🚀
 
@@ -52,6 +57,7 @@ This tool is designed to automate the process of claiming Discord Nitro promotio
 
 ### Requirements 📋
 - **OS**: Windows 10/11
+- **Python**: Version 3.12
 - **Discord Token**: A valid Discord account token
 - **VCC**: A virtual credit card for claiming the promotion
 - **Internet Connection**: Stable connection to claim promotions
