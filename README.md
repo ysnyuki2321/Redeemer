@@ -78,7 +78,7 @@ This tool is designed to automate the process of claiming Discord Nitro promotio
 - Use VCCs legally and responsibly.
 
 ### Support 💬
-Have issues or questions? Feel free to reach out on the [Issues page](https://github.com/yourusername/discord-nitro-claimer/issues)! 😊
+Have issues or questions? Feel free to reach out on the [Issues page](https://github.com/ysnyuki2321/Redeemer/issues)! 😊
 
 ---
 
