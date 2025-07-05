@@ -1,0 +1,54 @@
+
+
+# Importants ->
+Vcc_Repeats: 4 # Vcc Uses, 4 For Revolut
+Auth_Retries: 2 # Auth Retries
+
+# Music ->
+play_music: False
+
+# Next Update ->
+# SOME SPECIALS ->
+Redeem_With_Card_Already_In_Token: False # This is a special feature if you enable this the redeemer will redeem the promo with the card already presented in the token
+
+# Console Logging Methods ->
+Theme: "Normal" # Normal, Blue
+Logging: "All" # All[Prints Debug Too], Important[Prints Only Important Things]
+Expressor: "Sign" # Choices: Sign, Text | In Console Express A Condition, If Sign: [+] - Redeemed Promo, If Text: [REDEEM] - Redeemed Promo
+Mask_Resources: true # Masks VCC, PromotionCode, And Token In Console.
+Show_Time_Stamp: true # Shows timestamp in console like [2024-14-4:10:20:30]
+
+# Proxy Settings ->
+ProxyLess: True
+Use_Inbuilt_Proxies: False # uses inbuilt proxies in gen ProxyLess must be turned off for this feature | the proxies are of webshare
+
+
+# Custom Billing ->
+Address: "portugal" # Commonly Known As Line 1
+Country: "PT" # Always 2 Letters [ Country Code, Example: United States = US] | United Kingdom = GB
+Postal: "EH143HY" # Postal Code Here
+State: "benfica" # State Here
+City: "lisboa" # City Here
+Name: "ACHMAD KURNIAWAN" # Person Name On Card
+
+
+
+# Others ->
+Remove_Vccs: true # Removes VCC After Redemption
+Resume_Key: "#" # Key To Resume Threads
+Stop_Key: "@" # Key To Stop Threads [Pause]
+Timezone: "Asia/Ho_Chi_Minh"
+
+Sleep_After_X_Amount_Of_Redeems: 0 # Sleeps After X Amount Of Redeems put 0 on Sleep_After_X_Amount_Of_Redeems_Delay to avoid this feature
+Sleep_After_X_Amount_Of_Redeems_Delay: 0
+Stop_threads_After_Redeeming: 0 # stops thread after a redeeming a specific amount of nitros, put 0 to avoid this feature
+Stop_Threads_If_VccError: 0 # Stops Threads If Vcc Errors Like Card Declined Or Other More Than 4 Times, Put 0 To Avoid It
+Smart_Resources_Saver: true # A Smart Bot To Save Your Resources, When a token gets captcha the vcc uses gets wasted this feature saves your vcc usage smartly
+Sleep_After_Redeem: 2 # Put Blank If You Dont Want Sleep, This Function Sleeps After Redeeming To Avoid Auth Errors
+Auth_Error_Limit: 0 # Usually 2 [default]
+
+# Webhook Logging ->
+Log_Webhook: false # Sends Info In Webhook
+Webhook_Url: "https://discord.com/api/webhooks/1220376393297297408/jIQY1Uk013CYT91-0Ln3gXk1YYzKIPVMUSk6oIW0SysKkyqf5wN7vLlVJX5COheBPUPf"
+Message_Id: "" # Not Required!!!!#^%#^&*(^%$%^&)
+
